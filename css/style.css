@@ -1,0 +1,26 @@
+body {
+    background:
+    radial-gradient(black 15%, transparent 16%) 0 0,
+    radial-gradient(black 15%, transparent 16%) 8px 8px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background-color:#282828;
+    background-size:16px 16px;
+}
+
+h1, h2 {
+    /* font-family: 'Bangers', cursive; */
+    font-family: 'Permanent Marker', cursive;
+    color: #2adf23;
+    text-align: center;
+    letter-spacing: 0.2em;
+}
+
+h1 {
+    font-size: 90px;
+    padding-top: 200px;
+}
+
+h2 {
+    font-size: 60px;
+}
